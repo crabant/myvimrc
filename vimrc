@@ -13,3 +13,4 @@ if has("multi_byte")
     setglobal fileencoding=utf-8           " change default file encoding when writing new files
 endif
 syntax on
+set tags=./tags;,tags;
