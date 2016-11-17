@@ -1,0 +1,3 @@
+[submodule "vendor/linediff"]
+	path = vendor/linediff
+	url = git@github.com:AndrewRadev/linediff.vim.git
