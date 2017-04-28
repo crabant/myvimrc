@@ -5,6 +5,7 @@ set cindent
 set autoindent
 set	hlsearch
 set expandtab
+set cursorline
 if has("multi_byte")
     if &termencoding == ""
         let &termencoding = &encoding
